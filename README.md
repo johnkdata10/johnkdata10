@@ -4,7 +4,7 @@ I'm **John Kramarczyk**, an aspiring Data Scientist pursuing my Master of Scienc
 My path to Data Science was unconventional. I completed a Bachelor's degree in Business Administration and worked in administrative/IT roles 
 over the last 7+ years in 5 different industries: Electronics, Government, Education, Healthcare, and Pharmaceuticals. <br>
 <br>
-Although my path was unconvetional, my education and diverse work experiences have given me the ability to see data science problems from an interdisciplinary perspective 
+Although my path was unconventional, my education and diverse work experiences have given me the ability to see data science problems from an interdisciplinary perspective 
 and find unorthodox solutions to them. <br>
 <br>
 My education and diverse work experiences have also given me the ability to work across a wide variety of audiences, understand why each data science technology, technique, and solution were chosen, 
