@@ -7,6 +7,7 @@ over the last 7+ years in 5 different industries: Electronics, Government, Educa
 My education and diverse work experiences have given me the ability to approach data science problems from an interdisciplinary perspective 
 and find unorthodox solutions to them. <br>
 <br>
+I look forward to working on the next data science project!<br>
 <br>
 Check out my <a href="https://github.com/johnkdata10?tab=repositories"> Data Science Projects</a> in the areas of:
 
