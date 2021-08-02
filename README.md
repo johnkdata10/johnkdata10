@@ -1,13 +1,12 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm **John Kramarczyk**, an aspiring Data Scientist pursuing my Master of Science in Data Science at Northwestern University. <br>
+I'm **John Kramarczyk**. I love to learn and build "data sciency" things. This inspired me to pursue my Master of Science in Data Science at Northwestern University. <br>
 <br>
-My path to Data Science was unconventional. I completed a Bachelor's degree in Business Administration and worked in administrative/IT roles 
+I discovered my knack for data science after completing my Bachelor's degree in Business Administration and working in administrative/IT roles 
 over the last 7+ years in 5 different industries: Electronics, Government, Education, Healthcare, and Pharmaceuticals. <br>
 <br>
-Although my path was unconventional, I discovered my innate interest in Data Science through it. In fact, my education and diverse work experiences have given me the ability to approach data science problems from an interdisciplinary perspective 
+My education and diverse work experiences have given me the ability to approach data science problems from an interdisciplinary perspective 
 and find unorthodox solutions to them. <br>
 <br>
-In addition, my education and work experiences have given me the ability to work across a wide variety of audiences, understand why each data science tool, technique, and solution were chosen, and how they contribute to the overall goals of an organization. <br>
 <br>
 Check out my <a href="https://github.com/johnkdata10?tab=repositories"> Data Science Projects</a> in the areas of:
 
