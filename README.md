@@ -1,5 +1,5 @@
 ### Hey there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-I'm **John Kramarczyk**. I love to learn and build "data sciency" things. This inspired me to pursue my Master of Science in Data Science at Northwestern University. <br>
+I'm **John Kramarczyk**. I love to learn and build "data sciencey" things. This inspired me to pursue my Master of Science in Data Science at Northwestern University. <br>
 <br>
 I discovered my knack for data science after completing my Bachelor's degree in Business Administration and working in administrative/IT roles 
 over the last 7+ years in 5 different industries: Electronics, Government, Education, Healthcare, and Pharmaceuticals. <br>
