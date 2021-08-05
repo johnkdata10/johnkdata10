@@ -27,7 +27,7 @@ Check out my <a href="https://github.com/johnkdata10?tab=repositories"> Data Sci
 <br>
 **Learn More About Me**<br>
 <br>
-<img align="left" alt="John's LinkedIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/johnkramarczyk/">LinkedIn</a>
+<img align="left" alt="John's LinkedIN" width="26px" src="https://image.flaticon.com/icons/png/512/174/174857.png"/> <a href="https://www.linkedin.com/in/johnkramarczyk/">LinkedIn</a> <br>
 <img align="left" alt="johnkdata.com" width="26px" src="https://icons8.com/icon/UO98xUhpX9yQ/rgb-histogram"/> <a href="https://www.johnkdata.com/">johnkdata.com</a><br>
 <br>
 <!---
